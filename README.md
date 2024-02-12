@@ -18,7 +18,7 @@ CertGuard is a lightweight tool designed to enhance the security of SSL certific
    chmod +x certguard
    ```
    Run CertGuard with a domain name as an argument
-```bash
-  ./certguard example.com
-```
+   ```bash
+   ./certguard  example.com
+   ```
 CertGuard will extract the SSL certificate from the specified domain and scan it for the Heartbleed vulnerability. The scan results will be displayed in the terminal.
