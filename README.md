@@ -12,7 +12,7 @@ CertGuard is a lightweight tool designed to enhance the security of SSL certific
 
 1. Download the compiled binary from the Releases page.
 
-2. Make the binary executable:
+2. Make the binary executable
 
    ```bash
    chmod +x certguard
