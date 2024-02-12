@@ -1,6 +1,6 @@
-# CertGuard: SSL Certificate Security Scanner
+# CertGuard: SSL Certificate Scanner
 
-CertGuard is a lightweight tool designed to enhance the security of SSL certificates by detecting vulnerabilities such as Heartbleed. Leveraging OpenSSL commands, CertGuard extracts SSL certificates from specified domains and conducts thorough scans to identify potential vulnerabilities, empowering users to fortify their digital defenses against cyber threats.
+CertGuard is a lightweight tool designed to enhance the security of SSL certificates by detecting vulnerabilities such as Heartbleed. Leveraging OpenSSL commands, CertGuard extracts SSL certificates from specified domains and conducts thorough scans to identify potential SSL vulnerabilities.
 
 ## Features
 
